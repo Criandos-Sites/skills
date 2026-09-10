@@ -10,4 +10,9 @@ Crie uma pasta com nome descritivo e um README usando o [modelo de skill](../tem
 
 ## Índice
 
-Ainda não há contribuições nesta categoria. Ao adicionar a primeira, substitua esta frase pelo link e uma descrição curta.
+### Referências externas para avaliação
+
+- [Img2ThreeJS](https://github.com/img2threejs/img2threejs) — fluxo orientado por skill para reconstruir uma imagem como modelo procedural em Three.js.
+- [Video ShotCraft](https://github.com/Vincentwei1021/video-shotcraft) — skill para criar vídeos de produto com Remotion, cartões de cenas e modelos de produção.
+
+Links coletados da comunidade e verificados em 10/09/2026. Confira compatibilidade, permissões e licença antes do uso.
