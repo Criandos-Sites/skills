@@ -10,4 +10,10 @@ Crie uma pasta com nome descritivo e um README usando o [modelo de skill](../tem
 
 ## Índice
 
-Ainda não há contribuições nesta categoria. Ao adicionar a primeira, substitua esta frase pelo link e uma descrição curta.
+### Referências externas para avaliação
+
+- [Agent-ready SEO](https://github.com/caiodomingues/agent-ready-seo) — skill para tornar sites legíveis e citáveis por mecanismos de busca e respostas de IA.
+- [GEO SEO Claude](https://github.com/zubair-trabzada/geo-seo-claude) — auditoria e otimização de presença em buscas feitas por IA.
+- [PageSpeed SEO Optimizer](https://github.com/annygabb/pagespeed-seo-optimizer) — otimização de desempenho, SEO, acessibilidade e boas práticas com Lighthouse e PageSpeed Insights.
+
+Links coletados da comunidade e verificados em 10/09/2026. Confira compatibilidade, permissões e licença antes do uso.
